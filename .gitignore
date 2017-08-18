@@ -27,3 +27,5 @@
 *.exe
 *.out
 *.app
+
+feature_tracker/CMakeLists\.txt\.user
